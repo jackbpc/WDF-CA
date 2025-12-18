@@ -101,6 +101,7 @@
   .download-section { background: linear-gradient(135deg, #E5D4FF, #D7C0FF); text-align: center; }
 
   .download-content { max-width: 48rem; margin: 0 auto; }
+  .download-section p { margin-bottom: 3rem; }
   .download-grid { display: flex; flex-direction: column; align-items: center; gap: 3rem; }
   @media (min-width: 768px) { .download-grid { flex-direction: row; justify-content: center; } }
   

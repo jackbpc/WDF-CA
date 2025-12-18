@@ -368,6 +368,9 @@
     max-width: 48rem;
     margin: 0 auto;
   }
+  .download-section p {
+    margin-bottom: 3rem;
+  }
   .download-grid {
     display: flex;
     flex-direction: column;
